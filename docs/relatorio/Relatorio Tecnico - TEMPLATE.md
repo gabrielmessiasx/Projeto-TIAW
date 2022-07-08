@@ -1,21 +1,17 @@
-# Informações do Projeto
-`TÍTULO DO PROJETO`  
+# 📄 Informações do Projeto
+`Zzzlepy`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+`📚 Trabalho interdisciplinar de aplicações web` 
 
-`CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## 🧑 Participantes
 
-## Participantes
+> - Gabriel Lopes Messias
+> - Luiz Felipe Ferreira de Lacerda
+> - Mateus Carvalho Santos
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+
 
 # Estrutura do Documento
 
